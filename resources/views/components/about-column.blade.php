@@ -27,9 +27,9 @@
         </button>
     </div>
     <div>
-        <div class="px-96">
+        <div class="px-40">
             <div class="bg-green-500 h-96 w-96">
-
+                hello
             </div>
         </div>
     </div>
